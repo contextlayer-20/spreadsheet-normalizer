@@ -23,6 +23,8 @@ No third-party dependencies: Python 3.10+ stdlib only.
 
 ![Running the normalizer and skimming clean outputs](assets/spreadsheet-normalizer-demo.gif)
 
+[![Watch the demo on YouTube](https://img.youtube.com/vi/5kP0q89-kFk/hqdefault.jpg)](https://youtu.be/5kP0q89-kFk)
+
 ## Run
 
 ```bash
