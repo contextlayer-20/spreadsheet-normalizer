@@ -1,0 +1,6 @@
+Synthetic POC — normalization summary
+
+Source rows (after dedupe on order_id): 8
+Distinct customers: 6
+
+No blocking issues detected for this sample.
