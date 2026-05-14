@@ -1,0 +1,10 @@
+order_id,order_date,customer_name,category,location,city,state,amount_usd,status
+1001,3/14/2024,  Acme Wholesale  ,wholesale,"Austin, TX",,,1250.00,shipped
+1002,14-Mar-24,Beta Retail Inc,WHOLESALE,,Denver,CO,89.5,pending
+1003,45366,acme wholesale,Retail,,Seattle,WA,45.00,SHIPPED
+1004,2024-03-15,Corner Cafe Co retail,Retail,"  Portland, OR  ",,,12.99,pending
+1005,03/16/24,Beta Retail Inc.,WHOLESALE,"Nashville, TN",,,200 SHIPPED,
+1006,3/17/2024,Globex LLC ,wholesale,,,,500.00,pending
+1007,18-Mar-2024,  corner cafe co  ,RETAIL,Boulder CO,,,22.00,shipped
+1001,3/14/2024,  Acme Wholesale  ,wholesale,"Austin, TX",,,1250.00,shipped
+1008,19/03/2024,Delta Foods,Wholesale,"Chicago, IL",,,775.50,COMPLETE
