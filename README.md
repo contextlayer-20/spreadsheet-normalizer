@@ -15,12 +15,21 @@ No third-party dependencies: Python 3.10+ stdlib only.
 | `docs/field-map.md` | Column mapping: source → Airtable field types and import order. |
 | `docs/normalization-rules.md` | Plain-language rule list suitable for stakeholder sign-off. |
 | `docs/verification-checklist.md` | Pre/post checklist for migrations. |
+| `RUNBOOK.md` | How to run the normalizer, verify output, and recover from common issues. |
+| `assets/spreadsheet-normalizer-demo.gif` | Short screen walkthrough (from `assets/Screencast from 2026-05-14 11-33-14.webm`). |
+| `scripts/export-demo-gif.sh` | Optional: re-export a WebM/MP4 recording as a palette-optimized README GIF (requires `ffmpeg`). |
+
+## Demo
+
+![Running the normalizer and skimming clean outputs](assets/spreadsheet-normalizer-demo.gif)
 
 ## Run
 
 ```bash
 python scripts/normalize.py
 ```
+
+Step-by-step instructions, success checks, and troubleshooting: **[RUNBOOK.md](RUNBOOK.md)**.
 
 Committed `clean/` outputs match a fresh run so reviewers can skim without executing anything.
 
