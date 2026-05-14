@@ -85,16 +85,3 @@ For a “generate on demand” workflow you can add `clean/` to `.gitignore` and
 | [`docs/normalization-rules.md`](docs/normalization-rules.md) | What the script is doing in plain language |
 | [`docs/verification-checklist.md`](docs/verification-checklist.md) | Pre/post migration checks |
 
-## 9. Optional: re-export the README demo GIF
-
-Source recording: `assets/Screencast from 2026-05-14 11-33-14.webm` (replace with your own file as needed). Requires **ffmpeg**.
-
-From the repository root:
-
-```bash
-bash scripts/export-demo-gif.sh \
-  "assets/Screencast from 2026-05-14 11-33-14.webm" \
-  "assets/spreadsheet-normalizer-demo.gif"
-```
-
-To shrink long captures, trim with `DEMO_GIF_START` and `DEMO_GIF_DURATION` (seconds). See comments in `scripts/export-demo-gif.sh`.

@@ -42,3 +42,4 @@ You can describe this repo as:
 - Produce samples, run QA (`docs/verification-checklist.md`), then scale to full import.
 
 All data here is fabricated and can be replaced with sanitized samples under NDA for a specific engagement.
+
